@@ -165,7 +165,7 @@ async def on_message(message):
         # ==========================================
 
         await message.channel.send(
-            f"🔐 **Today's Bunker Code:** `{code}`"
+            f"🔐 **BUNKER CODE:** `{code}`"
         )
 
 
